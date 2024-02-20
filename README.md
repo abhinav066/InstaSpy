@@ -21,7 +21,7 @@ Navigate to the project directory:
 
 cd insta-spy
 pip install instaloader
-python insta_spy.py
+python3 insta_spy.py
 Enter the Instagram username when prompted.
 Features
 Retrieve account details (username, full name, bio, profile picture URL, follower count, following count, etc.).
