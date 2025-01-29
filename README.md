@@ -16,7 +16,7 @@ To use InstaSpy, follow these steps:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your_username/insta-spy.git
+git clone https://github.com/abhinav066/InstaSpy.git
 Navigate to the project directory:
 
 cd insta-spy
